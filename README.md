@@ -1,6 +1,6 @@
 # llm-compression-hub
-# 🚀 Low-Bit Quantization for LLMs & VLMs  
-*A curated research repository on ultra-efficient AI inference*
+# 🚀 Compression Methods for LLMs & VLMs  
+*A curated research repository on ultra-efficient AI training and inference*
 
 ---
 
