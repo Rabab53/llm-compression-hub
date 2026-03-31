@@ -5,7 +5,7 @@
 ---
 
 ## 📌 Overview
-This repository curates **state-of-the-art research, methods, and benchmarks** on **low-bit quantization for Large Language Models (LLMs) and Vision-Language Models (VLMs)**.
+This repository curates **state-of-the-art research, methods, and benchmarks** on **different compression methods for Large Language Models (LLMs) and Vision-Language Models (VLMs)**.
 
 The goal is to:
 - Reduce **memory footprint (KV cache, weights, activations)**
