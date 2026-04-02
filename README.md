@@ -17,7 +17,7 @@ The goal is to:
 
 ## 🔥 Featured Papers
 
-### ⚡ KV Cache Quantization
+### ⚡ KV (Key-Value) Cache Quantization
 
 - **TurboQuant: Finally, Fast and Widely Available Low-Bit KV Cache Quantization?**  
   - Blog: https://kaitchup.substack.com/p/turboquant-finally-fast-and-widely  
@@ -46,7 +46,10 @@ The goal is to:
   https://arxiv.org/pdf/2502.02631  
 
 - **Cherry on Top: Parameter Heterogeneity and Quantization in LLMs**  
-  https://proceedings.neurips.cc/paper_files/paper/2024/file/6fcc2190f456464160921e98393bf50e-Paper-Conference.pdf  
+  https://proceedings.neurips.cc/paper_files/paper/2024/file/6fcc2190f456464160921e98393bf50e-Paper-Conference.pdf
+
+- **The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**
+  https://arxiv.org/pdf/2402.17764
 
 ---
 
