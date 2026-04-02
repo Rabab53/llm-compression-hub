@@ -30,7 +30,10 @@ The goal is to:
   https://arxiv.org/abs/2406.03482  
 
 - **PolarQuant: Quantizing KV Caches with Polar Transformation**  
-  https://arxiv.org/pdf/2502.02617  
+  https://arxiv.org/pdf/2502.02617
+
+- **KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache**
+  https://arxiv.org/pdf/2402.02750
 
 ---
 
