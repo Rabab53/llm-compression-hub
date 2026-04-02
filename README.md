@@ -110,7 +110,11 @@ The goal is to:
 ## 🧪 Benchmarks & Evaluation
 
 - **LLMCBench: Benchmarking Large Language Model Compression for Efficient Deployment**  
-  https://arxiv.org/pdf/2410.21352  
+  https://arxiv.org/pdf/2410.21352
+
+- **Quantization Hurts Reasoning? An Empirical Study on Quan-
+tized Reasoning Models**
+https://arxiv.org/pdf/2504.04823
 
 ---
 
