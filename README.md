@@ -54,7 +54,7 @@ The goal is to:
 - **The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**
   https://arxiv.org/pdf/2402.17764
 
-- **Quant: Accurate Low-bit Post-Training Weight Quantization for LLMs**
+- **D2Quant: Accurate Low-bit Post-Training Weight Quantization for LLMs**
   https://huggingface.co/papers/2602.02546
   
 ---
