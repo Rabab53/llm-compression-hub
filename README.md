@@ -114,11 +114,14 @@ The goal is to:
 
 - **Quantization Hurts Reasoning? An Empirical Study on Quan-
 tized Reasoning Models**
-https://arxiv.org/pdf/2504.04823
+  https://arxiv.org/pdf/2504.04823
 
 - **Towards Understanding Best Practices for
 Quantization of Vision-Language Models**
-https://arxiv.org/pdf/2601.15287
+  https://arxiv.org/pdf/2601.15287
+
+- **Investigating the Impact of Quantization Methods on the Safety and Reliability of Large Language Models**
+  https://arxiv.org/pdf/2502.15799
 
 ---
 
