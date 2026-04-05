@@ -134,6 +134,12 @@ https://arxiv.org/pdf/2504.04823
  
 ---
 
+## Articles
+- **About Quantization**
+  https://huggingface.co/docs/optimum/en/concept_guides/quantization
+
+---
+
 ## 🤝 Contributions
 
 Contributions are welcome:
