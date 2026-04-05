@@ -116,6 +116,10 @@ The goal is to:
 tized Reasoning Models**
 https://arxiv.org/pdf/2504.04823
 
+- **Towards Understanding Best Practices for
+Quantization of Vision-Language Models**
+https://arxiv.org/pdf/2601.15287
+
 ---
 
 ## 🧾 Posters & Emerging Ideas
