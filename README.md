@@ -106,7 +106,13 @@ The goal is to:
   https://arxiv.org/pdf/2312.03863  
 
 - **A Survey on Post-Training of Large Language Models**  
-  https://arxiv.org/pdf/2503.06072  
+  https://arxiv.org/pdf/2503.06072
+
+- **A Survey on Model Compression for Large Language Models**
+  https://aclanthology.org/2024.tacl-1.85.pdf
+
+- **Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques**
+  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11126680
 
 ---
 
